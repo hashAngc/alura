@@ -92,7 +92,7 @@ h2 {
     height: 50px;
     margin: 0 auto;
     background-color: #29B6F6;
-    box-shadow: 0 0 3px;
+    box-shadow: 0 0 1px;
     border-radius: 3%;
     text-transform: uppercase;
     cursor: pointer;
@@ -107,7 +107,7 @@ h2 {
     height: 50px;
     margin: 0 auto;
     background-color: #29B6F6;
-    box-shadow: 0 0 3px;
+    box-shadow: 0 0 1px;
     border-radius: 3%;
     text-transform: uppercase;
     cursor: pointer;
@@ -122,7 +122,7 @@ h2 {
     height: 50px;
     margin: 0 auto;
     background-color: #29B6F6;
-    box-shadow: 0 0 2px;
+    box-shadow: 0 0 1px;
     border-radius: 15%;
     text-transform: uppercase;
     cursor: pointer;
